@@ -10,7 +10,7 @@ class Config(object):
     JOIN_LOGGER = "AmeliaLogupdate"
     EVENT_LOGS = "AmeliaLogupdate"
 
-    SQLALCHEMY_DATABASE_URI = "postgres://jdlimncq:EJfDsICvSokbv5yB2ug5zpcXhO7jNrbd@arjuna.db.elephantsql.com/jdlimncq
+    SQLALCHEMY_DATABASE_URI = "postgres://jdlimncq:EJfDsICvSokbv5yB2ug5zpcXhO7jNrbd@arjuna.db.elephantsql.com/jdlimncq"
     MONGO_DB_URI = "mongodb+srv://erx:erx@cluster0.8oza6qj.mongodb.net/?retryWrites=true&w=majority"
     LOAD = []
     NO_LOAD = ["rss"]
